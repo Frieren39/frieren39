@@ -1,10 +1,8 @@
-##Hi there 👋
+## Hi there 👋
 I’m a Network Engineer with HCIP and IITC certifications.
 I’m also a developer, working on various scripts and projects.
 I’m currently preparing hard for the CCIE.
-
 Contact: miooiio@outlook.jp
-
 <!--
 **Frieren39/frieren39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
